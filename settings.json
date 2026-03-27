@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "sanukathegreat.aternos.me:24324",
+    "port": 24324,
     "version": "",
     "try-creative": false
   },
